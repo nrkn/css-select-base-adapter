@@ -10,12 +10,13 @@ have to implement the whole thing.
 var baseAdapter = require('css-select-base-adapter');
 
 var myAdapter = {
-  // implementation here
+  // your partial implementation here
 };
 
+// get an adapter with everything needed by css-select
 var adapter = baseAdapter(myAdapter);
 
-// use adapter with css-select
+// use adapter with css-select...
 ```
 
 ## how it works
@@ -34,6 +35,9 @@ least:
 ```
 isTag, getAttributeValue, getChildren, getName, getParent, getText
 ```
+
+If you provide any of the other methods required of an adapter, the base adapter 
+will use your implementation instead of its own.
 
 See the 
 [`css-select` readme](https://github.com/fb55/css-select/blob/master/README.md)
