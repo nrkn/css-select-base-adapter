@@ -11,13 +11,10 @@
     "url": "https://github.com/nrkn/css-select-base-adapter.git"
   },
   "keywords": [
-    "tree",
-    "api",
-    "traverse",
-    "traversal",
-    "manipulate",
-    "manipulation",
-    "graph"
+    "css",
+    "select",
+    "adapter",
+    "css-select"
   ],
   "bugs": {
     "url": "https://github.com/nrkn/css-select-base-adapter/issues"
