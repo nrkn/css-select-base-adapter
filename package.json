@@ -6,7 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nrkn/css-select-base-adapter.git"
+  },
+  "keywords": [
+    "tree",
+    "api",
+    "traverse",
+    "traversal",
+    "manipulate",
+    "manipulation",
+    "graph"
+  ],
+  "bugs": {
+    "url": "https://github.com/nrkn/css-select-base-adapter/issues"
+  },
+  "homepage": "https://github.com/nrkn/css-select-base-adapter#readme",
   "author": "Nik Coughlin <nrkn.com@gmail.com>",
   "license": "MIT"
 }
