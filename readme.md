@@ -6,6 +6,8 @@ have to implement the whole thing.
 
 ## usage
 
+`npm install css-select-base-adapter --save`
+
 ```javascript
 var baseAdapter = require('css-select-base-adapter');
 
