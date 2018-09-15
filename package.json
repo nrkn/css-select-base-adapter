@@ -4,7 +4,7 @@
   "description": "Provides some base functions needed by a css-select adapter so that you don't have to implement the whole thing.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
