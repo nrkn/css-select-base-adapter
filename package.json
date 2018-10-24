@@ -1,6 +1,6 @@
 {
   "name": "css-select-base-adapter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Provides some base functions needed by a css-select adapter so that you don't have to implement the whole thing.",
   "main": "index.js",
   "scripts": {
